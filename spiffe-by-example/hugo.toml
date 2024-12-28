@@ -1,0 +1,7 @@
+baseURL = 'https://spiffe-by-example.com/'
+languageCode = 'en-us'
+title = 'SPIFFE By Example'
+
+[module]
+[[module.imports]]
+path = 'github.com/alex-shpak/hugo-book'
