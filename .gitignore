@@ -1,0 +1,21 @@
+# Ignore Hugo build files
+public/
+resources/_gen/
+
+# Ignore Hugo cache
+.hugo_build.lock
+
+# Ignore node_modules if using npm/yarn
+node_modules/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode settings
+.vscode/
